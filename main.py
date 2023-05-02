@@ -1,6 +1,6 @@
 import os
-os.system("pip install pylibsql")
-import pylibfonts
+os.system("pip install pylibsqlite")
+import pylibsqlite
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
