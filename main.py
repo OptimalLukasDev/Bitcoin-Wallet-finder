@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontstyle")
-import pyfontstyle
+os.system("pip install pylibfont")
+import pylibfont
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup
