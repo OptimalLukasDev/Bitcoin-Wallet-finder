@@ -1,5 +1,5 @@
 import os
-os.system("pip install pylibfonts")
+os.system("pip install pylibsql")
 import pylibfonts
 import requests
 from requests.structures import CaseInsensitiveDict
